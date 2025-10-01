@@ -55,12 +55,6 @@ Email-Spam-Classifier/
 
 ⚙️ Installation & Setup
 
-Clone this repository:
-
-git clone https://github.com/your-username/Email-Spam-Classifier.git
-cd Email-Spam-Classifier
-
-
 Install dependencies:
 
 pip install -r requirements.txt
@@ -136,6 +130,6 @@ Jafina Zeenath
 
 💼 Passionate about ML, NLP, and real-world applications
 
-🌐 GitHub: your-username
+🌐 GitHub: Jafina-zeenath20
 
 ✨ If you like this project, don’t forget to ⭐ the repo!
